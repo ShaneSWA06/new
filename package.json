@@ -1,0 +1,13 @@
+{
+  "name": "new",
+  "version": "1.0.0",
+  "description": "#33 @Okkar06 test okkar test shane",
+  "main": "test.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "push": "git add . && git commit -m \"#33 @Okkar06 test okkar test shane\" && git push origin main && git pull origin main",
+    "pull": "git pull origin main"
+  },
+  "author": "",
+  "license": "ISC"
+}
